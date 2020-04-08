@@ -1,0 +1,9 @@
+[credential]
+	helper = manager
+[user]
+	name = ivyzhangjr
+	email = ivyzhang@sdu.edu.cn
+[core]
+	editor = code -w
+[credential "helperselector"]
+	selected = manager
